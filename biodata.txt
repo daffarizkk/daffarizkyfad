@@ -1,0 +1,5 @@
+biodata
+
+nama	: Daffa Rizky Fadilah
+Kelas	: 4IA26
+NPM	: 50421319
